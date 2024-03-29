@@ -48,4 +48,4 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 * [Control Theory](ControlTheory.md)
 + [Circuit Theory](CircuitTheory.md)
-+ [Circuit Theory](HapticsFundamentals.md)
++ [Haptics Fundamentals](HapticsFundamentals.md)
