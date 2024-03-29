@@ -13,7 +13,13 @@ Engineer
 
 **The Cauchy-Schwarz Inequality**
 
+\[\begin{aligned}
+E = mc^2
+\end{aligned}\]
+
 This math is inline: $`a^2+b^2=c^2`$.
+
+
 
 Evaluate $\int_1^2 (x + 4)^2 dx $
  
