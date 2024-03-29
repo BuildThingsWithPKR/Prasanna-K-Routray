@@ -31,3 +31,5 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 |     3| SQL       |
 
 </details>
+
+[Contribution guidelines for this project](page1.md)
