@@ -15,6 +15,10 @@ Engineer
 
 This math is inline: $`a^2+b^2=c^2`$.
 
+```math
+\exp(i\tau) - 1 = 0
+```
+
 $\bar{X}\_{i,m} = X \Phi\_{i,m}^T$
 
 This math is on a separate line using a ```` ```math ```` block:
