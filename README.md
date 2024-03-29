@@ -66,7 +66,7 @@ $$
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;\left[\begin{matrix} X_{10} & X_{11} \\ X_{00} & X_{01} \end{matrix} \right]
 \text{~and~}
-\left[\begin{matrix} A_{10} & A_{11} \\ A_{00} & A_{01} \end{matrix} \right]。" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+\left[\begin{matrix} A_{10} & A_{11} \\ A_{00} & A_{01} \end{matrix} \right]" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 ```math
 a^2+b^2=c^2
