@@ -44,6 +44,9 @@ To split <span>$</span>100 in half, we calculate $100/2$
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+
 
 * [Control Theory](ControlTheory.md)
 * [Circuit Theory](CircuitTheory.md)
