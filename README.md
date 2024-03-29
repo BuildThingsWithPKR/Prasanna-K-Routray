@@ -28,6 +28,8 @@ This math is inline: $`a^2+b^2=c^2`$.
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;a^2+b^2=c^2" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 Evaluate $\int_1^2 (x + 4)^2 dx $
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\int_1^2 (x + 4)^2 dx" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
  
 $$\eqalign{
 \int_1^2 (x + 4)^2 dx = \int_1^2 (x^2 + 8x + 16) dx \\
@@ -36,12 +38,23 @@ $$\eqalign{
    - \left\lbrack {1 \over 3} + {8 \over 2}  + 16  \right\rbrack
 }$$
 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\eqalign{
+\int_1^2 (x + 4)^2 dx = \int_1^2 (x^2 + 8x + 16) dx \\
+  &= \left\lbrack {x^3 \over 3} + {8x^2 \over 2} + 16x \right\rbrack_1^2 \\
+  &= \left\lbrack {8 \over 3} + {8 * 4 \over 2} + 16 * 2 \right\rbrack
+   - \left\lbrack {1 \over 3} + {8 \over 2}  + 16  \right\rbrack
+}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+
 
 ```math
 \exp(i\tau) - 1 = 0
 ```
 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\exp(i\tau) - 1 = 0" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+
 $\bar{X}\_{i,m} = X \Phi\_{i,m}^T$
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\bar{X}\_{i,m} = X \Phi\_{i,m}^T" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 This math is on a separate line using a ```` ```math ```` block:
 
@@ -50,6 +63,10 @@ $$
 \text{~and~}
 \left[\begin{matrix} A_{10} & A_{11} \\ A_{00} & A_{01} \end{matrix} \right]。
 $$
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\left[\begin{matrix} X_{10} & X_{11} \\ X_{00} & X_{01} \end{matrix} \right]
+\text{~and~}
+\left[\begin{matrix} A_{10} & A_{11} \\ A_{00} & A_{01} \end{matrix} \right]。" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 ```math
 a^2+b^2=c^2
@@ -81,6 +98,8 @@ $`\sqrt{3}`$
 ```math
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 ```
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 To split <span>$</span>100 in half, we calculate $100/2$
 
