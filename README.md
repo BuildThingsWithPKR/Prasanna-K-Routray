@@ -112,3 +112,6 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 * [Haptics Fundamentals](HapticsFundamentals.md)
 * [Sensing Technologies](SensingTechnologies.md)
 * [Robotic Technologies](RoboticTechnologies.md)
+* [Robotic Technologies](test.html)
+
+
