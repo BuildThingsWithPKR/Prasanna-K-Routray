@@ -32,4 +32,4 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 </details>
 
-[Contribution guidelines for this project](page1.md)
+[Control Theory](page1.md)
