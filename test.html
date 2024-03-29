@@ -1,0 +1,65 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Maths Equations</title>
+  <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+  <script>
+  MathJax.Hub.Config({
+  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+});
+  </script>
+  <script>
+    function setTable()
+    {
+    symbols = ['\\mathcal{A}', '\\mathcal{B}','\\mathcal{C}','\\mathcal{D}','\\mathcal{E}']
+    probs  = [0.5, 0.3, 0.2, 0.1, 0.1]
+     
+   for (var i = 0; i < symbols.length; i++) { 
+    let sym = document. getElementById('sym'+(i+1))
+    let tex = document. getElementById('tex'+(i+1))
+    let prb = document. getElementById('prb'+(i+1))
+    sym.innerHTML = '$$'+symbols[i]+'$$'
+    tex.innerHTML = symbols[i]
+    prb.innerHTML = probs[i]
+    } 
+   MathJax.Hub.Queue(["Typeset",MathJax.Hub,this.formula]);
+    }
+    
+  </script>
+</head>
+<body id ='table'>
+  <button onclick ='setTable()'>Predict</button>
+ <table>
+  <tr>
+    <th>Symbol</th>
+    <th>Latex</th> 
+    <th>Prob</th>
+  </tr>
+  <tr>
+  <td id ='sym1'></td>
+  <td id ='tex1'></td>
+  <td id ='prb1'></td>
+ </tr>
+   <tr>
+  <td id ='sym2'></td>
+  <td id ='tex2'></td>
+  <td id ='prb2'></td>
+ </tr>
+   <tr>
+  <td id ='sym3'></td>
+  <td id ='tex3'></td>
+  <td id ='prb3'></td>
+ </tr>
+   <tr>
+  <td id ='sym4'></td>
+  <td id ='tex4'></td>
+  <td id ='prb4'></td>
+ </tr>
+   <tr>
+  <td id ='sym5'></td>
+  <td id ='tex5'></td>
+  <td id ='prb5'></td>
+ </tr>
+</table>
+</body>
+</html>
