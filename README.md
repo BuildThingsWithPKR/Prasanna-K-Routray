@@ -25,7 +25,7 @@ E = mc^2
 
 This math is inline: $`a^2+b^2=c^2`$.
 
-
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;a^2+b^2=c^2" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 Evaluate $\int_1^2 (x + 4)^2 dx $
  
