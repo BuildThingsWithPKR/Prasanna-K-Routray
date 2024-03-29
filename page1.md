@@ -1,1 +1,1 @@
-[Contribution guidelines for this project](README.md)
+[Go to Home](README.md)
