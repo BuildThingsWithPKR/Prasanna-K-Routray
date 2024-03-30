@@ -21,7 +21,7 @@ Engineer
 E = mc^2
 \end{aligned}\]
 
-$${\color{red}\sum\limits_{\color{lightblue}i=0}^{\color{orange}n} {\color{pink}i}} = \frac{\color{pink}n!}{\color{lightblue}k!(n-k)!}$$
+${\color{red}\sum\limits_{\color{lightblue}i=0}^{\color{orange}n} {\color{pink}i}} = \frac{\color{pink}n!}{\color{lightblue}k!(n-k)!}$
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;E = mc^2" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
